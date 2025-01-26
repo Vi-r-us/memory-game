@@ -1,4 +1,4 @@
-import PlayerListItem from "./playerListItem";
+import PlayerListItem from "./PlayerListItem";
 
 /**
  * PlayerList component
