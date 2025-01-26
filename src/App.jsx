@@ -12,7 +12,7 @@ function App() {
 
 
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/memory-game/">
       <Routes>
         <Route path="/" element={<Home isLoading={isLoading} />} />
         <Route path="/game" element={<Game />} />
