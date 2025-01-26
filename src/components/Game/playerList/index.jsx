@@ -10,7 +10,7 @@ import PlayerListItem from "./playerListItem";
  *
  * @returns {JSX.Element} The rendered player list component
  */
-const index = ({ players, currentPlayer }) => {
+const  index = ({ players, currentPlayer }) => {
   return (
     <div
       className={`grid gap-[1.4rem] sm:gap-3 2xl:gap-7 ${
