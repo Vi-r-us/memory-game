@@ -23,7 +23,7 @@ button {
 
 #root {
   /* min-width: 375px; */
-  min-height: 100vh;
+  min-height: 100dvh;
   background-color: theme("colors.white");
 }
 
