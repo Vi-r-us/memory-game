@@ -27,7 +27,7 @@ const Home = ({ isLoading }) => {
   }
 
   return (
-    <div className="flex min-h-screen w-full items-center bg-neutral-800 px-6 sm:px-0">
+    <div className="flex min-h-dvh w-full items-center bg-neutral-800 px-6 sm:px-0">
       <div className="sm:max-h-unset w-[327px] sm:w-[492px] md:w-[689px] mx-auto pt-[0.875] pb-[2.625rem] flex flex-col justify-center gap-[3.25rem] md:gap-[5.7rem] sm:pt-[1.5rem] sm:pb-[0.75rem] transition-all  animate-fade">
         {/* Header section */}
         <header>
